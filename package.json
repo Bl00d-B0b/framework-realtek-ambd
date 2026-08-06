@@ -1,0 +1,5 @@
+{
+  "name": "framework-realtek-ambd",
+  "version": "v2026.08.06",
+  "description": "sdk for amebad (pruned, GCC-only; base: NonPIayerCharacter/OpenRTL8720D)"
+}
